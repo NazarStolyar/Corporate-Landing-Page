@@ -1612,4 +1612,78 @@ body {
         width: 100%;
         height: 20%;
     }
+    .footer_left-oneBlock {
+        width: 100%;
+    }
+    .footer_left-oneBlock-logo {
+        justify-content: center;
+        height: 91px;
+    }
+    .footer_left-twoBlock{
+        justify-content: center;
+    }
+    .footer_left-twoBlock-text {
+        text-align: center;
+    }
+    .support {
+        width: 100%;
+    }
+    .support {
+        align-items: center;
+    }
+    .support_h1 {
+        margin-top: 10px;
+    }
+    .support_a {
+        margin-top: 4px;
+    }
+    .aboutUs {
+        width: 100%;
+        align-items: center;
+        margin-left: -7px;
+    }
+    .aboutUs_h1 {
+        margin-top: 10px;
+    }
+    .aboutUs_a {
+        margin-top: 4px;
+        letter-spacing: 0px;
+    }
+    .newslet {
+        width: 100%;
+        align-items: center;
+        margin-left: -11px;
+    }
+    .newslet_email {
+        height: 21px;
+        margin-top: -7px;
+    }
+    .email_send {
+        left: 90px;
+    }
+    .drebble {
+        margin-top: 63px;
+        margin-left: -43px;
+    }
+    .google {
+        margin-top: 63px;
+        margin-left: 25px;
+    }
+    .facebook {
+        margin-top: 63px;
+        margin-left: -10px;
+    }
+    .twiter {
+        margin-top: 63px;
+        margin-left: 60px;
+    }
+    .newslet_h1 {
+        font-size: 14px;
+        margin-top: 1px;
+    }
+    .footer_right_vertical {
+        transform: rotate(256deg);
+        top: -322px;
+    }
+
 }
