@@ -1535,6 +1535,19 @@ body {
     }
 }
 @media screen and (max-width: 375px){
+    html{
+
+        width: 100%;
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    body
+    {
+        width: 100%;
+        max-width: 100%;
+        overflow-x: hidden;
+    }
     .section_2 {
         height: 636px;
         width: 375px;
@@ -1832,9 +1845,10 @@ body {
         margin-right: 31px;
     }
     .clients-botton {
-        margin-right: 143px;
         width: 100%;
         height: 116px;
+        position: relative;
+        right: 45px;
     }
     .partnerLogo1 {
         width: 56px;
