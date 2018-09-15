@@ -1685,5 +1685,24 @@ body {
         transform: rotate(256deg);
         top: -322px;
     }
-
+    .header {
+        height: 459px;
+        margin-top: 50px;
+    }
+    .h1_text {
+        font-size: 33px;
+        margin-top: 113px;
+    }
+    .play {
+        height: 42px;
+        width: 51px;
+    }
+    .header_button {
+        height: 70px;
+    }
+    .header_button_text {
+        width: 171px;
+        height: 42px;
+        font-size: 13px;
+    }
 }
