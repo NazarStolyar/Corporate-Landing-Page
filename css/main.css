@@ -1537,6 +1537,8 @@ body {
 @media screen and (max-width: 375px){
     .section_2 {
         height: 636px;
+        width: 375px;
+        overflow: hidden;
     }
     .section_2_content-block {
         width: 100%;
@@ -1595,6 +1597,8 @@ body {
     }
     .bower {
         height: 393px;
+        width: 375px;
+        overflow: hidden;
     }
     .bower_brawser-img {
         width: 292px;
@@ -1605,6 +1609,8 @@ body {
     .footer {
         height: 500px;
         flex-direction: column;
+        width: 375px;
+        overflow: hidden;
     }
     .footer_left {
         width: 100%;
@@ -1690,6 +1696,8 @@ body {
     }
     .header {
         height: 459px;
+        width: 375px;
+        overflow: hidden;
     }
     .h1_text {
         font-size: 33px;
@@ -1710,6 +1718,8 @@ body {
     .section_1 {
         height: 401px;
         flex-direction: column;
+        width: 375px;
+        overflow: hidden;
     }
     .section_1_block_left {
         align-items: center;
@@ -1744,5 +1754,150 @@ body {
         position: relative;
         top: 330px;
         left: 180px;
+    }
+    .description {
+        height: 360px;
+        flex-direction: column-reverse;
+        width: 375px;
+        overflow: hidden;
+    }
+    .description-blokRight {
+        width: 100%;
+        align-items: flex-start;
+    }
+    .description-blokRight_content {
+        align-items: center;
+    }
+    .description-blokRight_content-p {
+        margin-left: 0px;
+    }
+    .description-blokRight_content-h1 {
+        font-size: 22px;
+        margin-left: 0px;
+        text-align: center;
+    }
+    .description-blokRight_content-p1 {
+        margin-left: 0px;
+    }
+    .leaptop {
+        margin-top: 17px;
+        left: 51px;
+    }
+    .description-blokLeft-verticalBlock {
+        top: -515px;
+    }
+    .clients-center-block {
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+    }
+    .clients {
+        height: 887px;
+        width: 375px;
+        overflow: hidden;
+    }
+    .clients-none {
+        height: 48px;
+    }
+    .clients-center-block {
+        height: 706px;
+    }
+    .clients-center-block_left {
+        width: 100%;
+        height: 33.3%;
+        align-items: center;
+    }
+    .clients2_logo {
+        margin-top: -46px;
+        margin-left: -3px;
+    }
+    .clients2-p {
+        top: 19px;
+        left: 0px;
+    }
+    .clients2-p1 {
+        margin-left: -6px;
+    }
+    .clients2_text {
+        bottom: -8px;
+        margin-left: 0px;
+    }
+    .clients-center-block_center {
+        width: 100%;
+        height: 33.3%;
+    }
+    .clients-center-block_right {
+        width: 100%;
+        height: 33.3%;
+        margin-right: 31px;
+    }
+    .clients-botton {
+        margin-right: 143px;
+        width: 100%;
+        height: 116px;
+    }
+    .partnerLogo1 {
+        width: 56px;
+        height: 38px;
+    }
+    .partnerLogo2 {
+        width: 84px;
+        height: 37px;
+    }
+    .partnerLogo3 {
+        width: 91px;
+        height: 45px;
+        margin-top: 53px;
+        margin-left: 54px;
+    }
+    .partnerLogo4 {
+        width: 88px;
+        height: 51px;
+        margin-top: 52px;
+        margin-left: 43px;
+    }
+    .partnerLogo5 {
+        width: 86px;
+        height: 55px;
+        margin-top: 48px;
+        margin-left: 39px;
+    }
+    .registr {
+        width: 375px;
+        overflow: hidden;
+    }
+    .registr-p {
+        font-size: 10px;
+    }
+    .registr-h1 {
+        text-align: center;
+    }
+    .validate {
+        height: 269px;
+        margin-bottom: 89px;
+    }
+    .validate_text {
+        width: 225px;
+        height: 33px;
+    }
+    .validate_text::placeholder {
+        text-indent:  73px;
+    }
+    .validate_button {
+        width: 229px;
+        height: 36px;
+    }
+    .arrow {
+        left: 6px;
+        top: 47px;
+        transform: rotate(-160deg);
+    }
+    .day30_regist {
+        margin-top: 165px;
+    }
+    .arrow_text {
+        margin-top: 73px;
+        font-size: 10px;
+        margin-left: -42px;
     }
 }
