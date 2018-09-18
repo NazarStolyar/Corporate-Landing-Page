@@ -1008,6 +1008,29 @@ body {
 .section_1_block_right-blockRotation-mobile {
     display: none;
 }
+@media screen and (min-width: 1440px){
+    .section_1_block_right-blockRotation {
+        width: 1200px;
+        height: 1200px;
+        top: 133px;
+    }
+    .section_2_content-block_top-center-p1 {
+        margin-left: 105px;
+    }
+    .section_2_content-block_top-center-p2 {
+        margin-left: 58px;
+    }
+    .description-blokLeft-verticalBlock {
+        right: 344px;
+        top: 37px;
+    }
+    .bower_brawser-img {
+        margin-left: 205px;
+    }
+    .validate {
+        width: 59%;
+    }
+}
 @media screen and (max-width: 1350px) {
     .header {
         height: 586px;
