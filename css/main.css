@@ -804,7 +804,6 @@ body {
     font-family: 'Exo', sans-serif;
     font-size: 16px;
     text-indent: 20px;
-.validate_text::placeholder
 }
 .registr_copirate {
     width: 50%;
@@ -1981,13 +1980,13 @@ body {
         width: 141%;
     }
     .section_2-top-block-center-h1 {
-        font-size: 24px;
+        font-size: 21px;
     }
     .section_2_content-block_top-center {
         align-items: center;
     }
     .section_2_coffeImg {
-        margin-top: 28px;
+        margin-top: 31px;
         margin-left: 13px;
     }
     .bower-p {
@@ -1997,7 +1996,7 @@ body {
     }
     .bower-h1 {
         top: 4px;
-        font-size: 21px;
+        font-size: 20px;
         left: 0px;
     }
     .bower_text{
@@ -2039,6 +2038,10 @@ body {
     }
     .footer_left-twoBlock-text {
         text-align: center;
+        margin-left: 10px;
+    }
+    .footer_logo_h1 {
+        font-size: 17px;
     }
     .support {
         width: 100%;
@@ -2048,9 +2051,11 @@ body {
     }
     .support_h1 {
         margin-top: -7px;
+        margin-left: 8px;
     }
     .support_a {
         margin-top: 4px;
+        margin-right: 24px;
     }
     .aboutUs {
         width: 100%;
@@ -2059,10 +2064,12 @@ body {
     }
     .aboutUs_h1 {
         margin-top: -5px;
+        margin-left: 19px;
     }
     .aboutUs_a {
         margin-top: 4px;
         letter-spacing: 0px;
+        margin-left: 17px;
     }
     .newslet {
         width: 100%;
@@ -2071,7 +2078,10 @@ body {
     }
     .newslet_email {
         height: 21px;
-        margin-top: -7px;
+        margin-top: 2px;
+    }
+    .newslet_email::placeholder {
+        font-size: 13px;
     }
     .email_send {
         left: 90px;
@@ -2094,7 +2104,8 @@ body {
     }
     .newslet_h1 {
         font-size: 14px;
-        margin-top: 1px;
+        margin-top: -4px;
+        margin-left: -28px;
     }
     .footer_right_vertical {
         transform: rotate(256deg);
@@ -2145,9 +2156,12 @@ body {
         margin-top: 25px;
         text-align: center;
         margin-left: 11px;
+        font-size: 20px;
     }
     .section_1_block_left-top-p {
-        margin-left: 11px;
+        margin-left: 4px;
+        margin-top: 1px;
+        font-size: 9px;
     }
     .section_1_block_right-blockRotation-mobile {
         width: 100%;
@@ -2286,7 +2300,8 @@ body {
         height: 33px;
     }
     .validate_text::placeholder {
-        text-indent:  73px;
+        text-indent:  80px;
+        font-size: 13px;
     }
     .validate_button {
         width: 229px;
