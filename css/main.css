@@ -2321,3 +2321,97 @@ body {
         margin-left: -42px;
     }
 }
+@media screen and (max-width: 375px) {
+    html {
+
+        width: 100%;
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    body {
+        width: 100%;
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+    .section_1-text-p {
+        margin-left: 3px;
+    }
+    .section_1_block_left-top-p {
+        margin-left: 0px;
+        margin-top: -32px;
+        font-size: 7px;
+    }
+    .section_2-top-block-center-h1 {
+        font-size: 20px;
+    }
+    .section_2-top-block-center-p {
+        font-size: 10px;
+        margin-left: 13px;
+    }
+    .description-blokRight_content-h1 {
+        font-size: 20px;
+    }
+    .description-blokRight_content-p1 {
+        font-size: 8px;
+    }
+    .leaptop {
+        left: 31px;
+    }
+    .description-blokLeft-verticalBlock {
+        top: -551px;
+    }
+    .partnerLogo1 {
+        width: 46px;
+        height: 30px;
+    }
+    .partnerLogo2 {
+        width: 74px;
+        height: 31px;
+        margin-left: 67px;
+    }
+    .partnerLogo3 {
+        width: 80px;
+        height: 45px;
+        margin-top: 48px;
+        margin-left: 60px;
+    }
+    .partnerLogo4 {
+        width: 79px;
+        height: 47px;
+        margin-top: 47px;
+        margin-left: 53px;
+    }
+    .partnerLogo5 {
+        width: 70px;
+        height: 48px;
+        margin-top: 44px;
+        margin-left: 52px;
+    }
+    .bower_brawser-img {
+        height: 149px;
+        margin-left: -49px;
+    }
+    .footer_logo_h1 {
+        margin-left: 10px;
+    }
+    .footer_left-twoBlock-text {
+        margin-left: 3px;
+    }
+    .support_h1 {
+        margin-top: -10px;
+        margin-left: -5px;
+    }
+    .support_a {
+        margin-right: 38px;
+    }
+    .aboutUs_h1 {
+        margin-left: 6px;
+    }
+    .aboutUs_a {
+        margin-left: 1px;
+    }
+    .newslet_h1 {
+        margin-left: -42px;
+    }
+}
