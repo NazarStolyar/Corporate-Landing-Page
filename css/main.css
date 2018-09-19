@@ -2192,12 +2192,12 @@ body {
         top: -322px;
     }
     .header {
-        height: 670px;
+        height: 625px;
         width: 100%;
         background: url("../img/mobil_bg.png");
     }
     .header_text {
-        margin-top: 78px;
+        margin-top: 58px;
     }
     .h1_text {
         font-size: 33px;
@@ -2419,7 +2419,7 @@ body {
         overflow-x: hidden;
     }
     .header {
-        height: 569px;
+        height: 550px;
     }
     .header_text {
         margin-top: 51px;
